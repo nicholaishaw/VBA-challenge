@@ -7,6 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
+
 'Tutors Marc Calache and Kyle Goode assisted with the development of the logic and syntax of this VBA script.
 Sub allsheets()
 Dim ws As Worksheet
