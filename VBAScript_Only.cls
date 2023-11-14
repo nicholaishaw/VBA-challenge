@@ -7,15 +7,16 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
-
 '-------------------
 'Tutors Marc Calache and Kyle Goode assisted with the development of the logic and syntax of this VBA script.
 'VBA script begins here:
 '-------------------
 
 Sub everysheet()
+
 Dim ws As Worksheet
 
+    'the idea and syntax to loop through each sheet was provided from: https://stackoverflow.com/questions/20422356/loop-through-excel-sheets
     For Each ws In ThisWorkbook.Sheets
         Call stocks(ws)
     Next ws
@@ -23,6 +24,7 @@ Dim ws As Worksheet
 End Sub
 
 Sub stocks(ws As Worksheet)
+
 Dim lastrow As Double
 Dim FinalLastRow As Double
 Dim i As Double
