@@ -13,7 +13,7 @@ Attribute VB_Exposed = True
 'VBA script begins here:
 '-------------------
 
-Sub allsheets()
+Sub everysheet()
 Dim ws As Worksheet
 
     For Each ws In ThisWorkbook.Sheets
