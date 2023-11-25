@@ -9,6 +9,9 @@ Data on several companies' performance in the stock market in 2018, 2019, and 20
 ![image](https://github.com/nicholaishaw/VBA-challenge/assets/135463220/378fb666-b801-480b-9179-fb827fc9263a)
 **Figure 2.** *Results of the stock market analysis using VBA*
 
+## Brief Analysis
 For 2018, the results showed that the stock ticker with the greatest percent increase was 'THB' with a value of 141.42%, the greatest percent decrease was 'RKS' with -90.02%, and the ticker with the highest volume was 'QKN' with 1.68954E+12.
+
 For 2019, the results showed that the stock ticker with the greatest percent increase was 'RYU' with a value of 190.03%, the greatest percent decrease was 'RKS' with -91.60%, and the ticker with the highest volume was 'ZQD' with 4.37301E+12.
+
 For 2019, the results showed that the stock ticker with the greatest percent increase was 'YDI' with a value of 188.76%, the greatest percent decrease was 'VNG' with -89.05%, and the ticker with the highest volume was 'QKN' with 3.45296E+12.
