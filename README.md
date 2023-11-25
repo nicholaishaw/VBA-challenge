@@ -1,7 +1,7 @@
 # VBA Stock Market Analysis
 
 ## Description
-Data on several companies' performance in the stock market in 2018, 2019, and 2020 was provided in an excel workbook. Each company possessed a unique ticker and a daily opening price, closing price, and volume. Using Visual Basic for Applications (VBA), each ticker's yearly stock price difference, percent change, and total volume was calculated and recorded for each year (2018-2020). In addition, the overall greatest increase, decrease, and total volume was calculated and returned in the excel sheet.
+Data on several companies' performance in the stock market in 2018, 2019, and 2020 was provided in an excel workbook. Each company possessed a unique ticker and a daily opening price, closing price, and volume. Using Visual Basic for Applications (VBA), each ticker's yearly stock price difference, percent change, and total volume was calculated and recorded for each year (2018-2020). In addition, the company with the greatest increase, decrease, and total volume in the year was calculated and returned in the sheet.
 
 ![image](https://github.com/nicholaishaw/VBA-challenge/assets/135463220/b18b6299-fc31-48b8-aa7d-a0be63e77e3b)
 **Figure 1.** *The raw stock market data*
