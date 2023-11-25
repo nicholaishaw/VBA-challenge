@@ -7,7 +7,7 @@ Data on several companies' performance in the stock market in 2018, 2019, and 20
 **Figure 1.** *Raw 2018 stock market data*
 
 ![image](https://github.com/nicholaishaw/VBA-challenge/assets/135463220/378fb666-b801-480b-9179-fb827fc9263a)
-**Figure 2.** *Results of the 2018 stock market analysis using VBA*
+**Figure 2.** *Results of the 2018 stock market analysis using VBA. The VBA script is named 'VBAScript_Only.cls' in the main branch of this repository.*
 
 ## Brief Analysis
 For 2018, the results showed that the stock ticker with the greatest percent increase was 'THB' with a value of 141.42%, the greatest percent decrease was 'RKS' with -90.02%, and the ticker with the highest volume was 'QKN' with 1.68954E+12.
